@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# Tip Calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains my solution to the React State Management Challenge, which is part of the Udemy course by Jonas Schmedtmann. The challenge exercise focuses on state management and the usage of `props.children` in React.
 
-## Available Scripts
+## Challenge Description
 
-In the project directory, you can run:
+In this challenge, we were tasked with building a React component that demonstrates effective state management using React's built-in features. The component should leverage the `props.children` pattern to create a flexible and reusable solution.
 
-### `npm start`
+## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- React
+- JavaScript
+- HTML
+- CSS
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Getting Started
 
-### `npm test`
+To get a local copy of this project up and running, follow these steps:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the repository: `git clone https://github.com/your-username/react-state-management-challenge.git`
+2. Navigate to the project directory: `cd react-state-management-challenge`
+3. Install the dependencies: `npm install`
+4. Start the development server: `npm start`
+5. Open your web browser and visit `http://localhost:3000` to see the application in action.
 
-### `npm run build`
+## Challenge Solution
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+In my solution, I focused on implementing a robust state management system using React's hooks and context API. I divided the challenge into smaller components to keep the code modular and maintainable. By using `props.children`, I made the component versatile and easily configurable.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The solution demonstrates the following concepts:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Setting up and managing state using React hooks.
+- Propagating state and functions down the component tree using context.
+- Utilizing `props.children` to render dynamic content within the component.
 
-### `npm run eject`
+Feel free to explore the code and experiment with different use cases. The comments within the code provide explanations and insights into the implementation.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Acknowledgments
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+I would like to express my gratitude to Jonas Schmedtmann for creating the React course on Udemy and providing this challenging exercise. It has been an excellent opportunity for me to enhance my understanding of state management in React.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for visiting this repository and reviewing my solution!
