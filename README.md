@@ -10,8 +10,6 @@ In this challenge, we were tasked with building a React component that demonstra
 
 - React
 - JavaScript
-- HTML
-- CSS
 
 ## Getting Started
 
