@@ -16,7 +16,7 @@ In this challenge, we were tasked with building a React component that demonstra
 To get a local copy of this project up and running, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/mohdShahwan/tip-calculator.git`
-2. Navigate to the project directory: `cd react-state-management-challenge`
+2. Navigate to the project directory: `cd tip-calculator`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your web browser and visit `http://localhost:3000` to see the application in action.
