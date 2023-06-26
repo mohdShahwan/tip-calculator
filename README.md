@@ -31,7 +31,7 @@ The solution demonstrates the following concepts:
 - Propagating state and functions down the component tree using context.
 - Utilizing `props.children` to render dynamic content within the component.
 
-Feel free to explore the code and experiment with different use cases. The comments within the code provide explanations and insights into the implementation.
+Feel free to explore the code and experiment with different use cases.
 
 ## Acknowledgments
 
